@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html5-semantics-css3-responsive-jsdom-manipulation-nSf_QoZOV](https://www.frontendmentor.io/solutions/html5-semantics-css3-responsive-jsdom-manipulation-nSf_QoZOV)
 - Live Site URL: [https://dontgiveup6.github.io/Pod-request-access-landing-page](https://dontgiveup6.github.io/Pod-request-access-landing-page/)
